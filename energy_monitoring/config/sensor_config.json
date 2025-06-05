@@ -1,0 +1,23 @@
+[
+
+  { "project_id": "Solar_Facade", "sensor_id": "Temp_1", "sensor_type": "temperature", "unit": "C", "field": 1 },
+  { "project_id": "Solar_Facade", "sensor_id": "Volt_1", "sensor_type": "voltage", "unit": "V", "field": 2 },
+  { "project_id": "Solar_Facade", "sensor_id": "Amp_1", "sensor_type": "current", "unit": "A", "field": 3 },
+  { "project_id": "Solar_Facade", "sensor_id": "Wind_1", "sensor_type": "wind_speed", "unit": "m/s", "field": 4 },
+  { "project_id": "Solar_Facade", "sensor_id": "Irr_1", "sensor_type": "irradiance", "unit": "W/m²", "field": 5 },
+  { "project_id": "Solar_Facade", "sensor_id": "PressHigh_1", "sensor_type": "pressure", "unit": "Pa", "field": 6 },
+  { "project_id": "Solar_Facade", "sensor_id": "PressLow_1", "sensor_type": "pressure", "unit": "Pa", "field": 7 },
+
+
+  { "project_id": "Solar_Brick", "sensor_id": "Irr_1", "sensor_type": "irradiance", "unit": "W/m²", "field": 1 },
+  { "project_id": "Solar_Brick", "sensor_id": "Temp_1", "sensor_type": "temperature", "unit": "C", "field": 2 },
+  { "project_id": "Solar_Brick", "sensor_id": "Volt_1", "sensor_type": "voltage", "unit": "V", "field": 3 },
+  { "project_id": "Solar_Brick", "sensor_id": "Amp_1", "sensor_type": "current", "unit": "A", "field": 4 },
+
+
+  { "project_id": "HAWT", "sensor_id": "Irr_1", "sensor_type": "irradiance", "unit": "W/m²", "field": 1 },
+  { "project_id": "HAWT", "sensor_id": "WindSpeed_1", "sensor_type": "wind_speed", "unit": "m/s", "field": 2 },
+  { "project_id": "HAWT", "sensor_id": "Wind_Direction_1", "sensor_type": "wind_direction", "unit": "°", "field": 3 },
+  { "project_id": "HAWT", "sensor_id": "Volt_1", "sensor_type": "voltage", "unit": "V", "field": 4 },
+  { "project_id": "HAWT", "sensor_id": "Amp_1", "sensor_type": "current", "unit": "A", "field": 5 }
+]

@@ -1,0 +1,8 @@
+[2025-06-05 03:40:28,929] [INFO] Cron Manager started. Scheduling all jobs.
+[2025-06-05 03:41:02,594] [INFO] Executing scripts/generate_sample_data.py
+[2025-06-05 03:41:32,399] [INFO] Executing scripts/aggregate_parquet.py
+[2025-06-05 03:41:36,697] [INFO] Executing scripts/upload_to_sql.py
+[2025-06-05 03:41:40,531] [INFO] Executing scripts/upload_thingspeak.py
+[2025-06-05 03:41:47,004] [INFO] Executing scripts/generate_sample_data.py
+[2025-06-05 03:42:19,992] [INFO] Executing scripts/generate_sample_data.py
+[2025-06-05 03:42:35,193] [INFO] Cron Manager stopped by user.

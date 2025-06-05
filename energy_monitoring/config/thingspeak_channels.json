@@ -1,0 +1,36 @@
+{
+  "Solar_Facade": {
+    "channel_id": "2981204",
+    "write_api_key": "6XSLPPOCKDVYF3XO",
+    "fields": {
+      "Temp_1": "field1",
+      "Volt_1": "field2",
+      "Amp_1": "field3",
+      "Wind_1": "field4",
+      "Irr_1": "field5",
+      "PressHigh_1": "field6",
+      "PressLow_1": "field7"
+    }
+  },
+  "Solar_Brick": {
+    "channel_id": "2981205",
+    "write_api_key": "DVIJVMQQGB1B89SG",
+    "fields": {
+      "Irr_1": "field1",
+      "Temp_1": "field2",
+      "Volt_1": "field3",
+      "Amp_1": "field4"
+    }
+  },
+  "HAWT": {
+    "channel_id": "2981207",
+    "write_api_key": "PCM9V83M5AZSKFTL",
+    "fields": {
+      "Irr_1": "field1",
+      "WindSpeed_1": "field2",
+      "Wind_Direction_1": "field3",
+      "Volt_1": "field4",
+      "Amp_1": "field5"
+    }
+  }
+}

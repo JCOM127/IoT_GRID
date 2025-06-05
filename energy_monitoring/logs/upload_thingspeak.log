@@ -1,0 +1,34 @@
+2025-06-05 03:30:01,396 [ERROR] [Solar_Facade] Sensor not found in DB: ('Solar_Facade', 'Temp_1')
+2025-06-05 03:30:01,396 [ERROR] [Solar_Facade] Sensor not found in DB: ('Solar_Facade', 'Volt_1')
+2025-06-05 03:30:01,396 [ERROR] [Solar_Facade] Sensor not found in DB: ('Solar_Facade', 'Amp_1')
+2025-06-05 03:30:01,396 [ERROR] [Solar_Facade] Sensor not found in DB: ('Solar_Facade', 'Wind_1')
+2025-06-05 03:30:01,396 [ERROR] [Solar_Facade] Sensor not found in DB: ('Solar_Facade', 'Irr_1')
+2025-06-05 03:30:01,397 [ERROR] [Solar_Facade] Sensor not found in DB: ('Solar_Facade', 'PressHigh_1')
+2025-06-05 03:30:01,397 [ERROR] [Solar_Facade] Sensor not found in DB: ('Solar_Facade', 'PressLow_1')
+2025-06-05 03:30:01,397 [INFO] [Solar_Facade] Sending payload: {'api_key': '6XSLPPOCKDVYF3XO'}
+2025-06-05 03:30:01,892 [INFO] [Solar_Facade] Uploaded successfully. Entry ID: 1
+2025-06-05 03:30:01,893 [ERROR] [Solar_Brick] Sensor not found in DB: ('Solar_Brick', 'Irr_1')
+2025-06-05 03:30:01,893 [ERROR] [Solar_Brick] Sensor not found in DB: ('Solar_Brick', 'Temp_1')
+2025-06-05 03:30:01,893 [ERROR] [Solar_Brick] Sensor not found in DB: ('Solar_Brick', 'Volt_1')
+2025-06-05 03:30:01,893 [ERROR] [Solar_Brick] Sensor not found in DB: ('Solar_Brick', 'Amp_1')
+2025-06-05 03:30:01,894 [INFO] [Solar_Brick] Sending payload: {'api_key': 'DVIJVMQQGB1B89SG'}
+2025-06-05 03:30:02,218 [INFO] [Solar_Brick] Uploaded successfully. Entry ID: 1
+2025-06-05 03:30:02,218 [ERROR] [HAWT] Sensor not found in DB: ('HAWT', 'Irr_1')
+2025-06-05 03:30:02,219 [ERROR] [HAWT] Sensor not found in DB: ('HAWT', 'WindSpeed_1')
+2025-06-05 03:30:02,219 [ERROR] [HAWT] Sensor not found in DB: ('HAWT', 'Wind_Direction_1')
+2025-06-05 03:30:02,219 [ERROR] [HAWT] Sensor not found in DB: ('HAWT', 'Volt_1')
+2025-06-05 03:30:02,219 [ERROR] [HAWT] Sensor not found in DB: ('HAWT', 'Amp_1')
+2025-06-05 03:30:02,220 [INFO] [HAWT] Sending payload: {'api_key': 'PCM9V83M5AZSKFTL'}
+2025-06-05 03:30:02,501 [INFO] [HAWT] Uploaded successfully. Entry ID: 1
+2025-06-05 03:34:12,324 [INFO] [Solar_Facade] Sending payload: {'api_key': '6XSLPPOCKDVYF3XO', 'field1': 27.26, 'field2': 16.62, 'field3': 2.33, 'field4': 13.12, 'field5': 211.42, 'field6': 116755.0, 'field7': 183435.0}
+2025-06-05 03:34:12,680 [INFO] [Solar_Facade] Uploaded successfully. Entry ID: 2
+2025-06-05 03:34:12,682 [INFO] [Solar_Brick] Sending payload: {'api_key': 'DVIJVMQQGB1B89SG', 'field1': 204.59, 'field2': 28.43, 'field3': 13.68, 'field4': 4.94}
+2025-06-05 03:34:12,951 [INFO] [Solar_Brick] Uploaded successfully. Entry ID: 2
+2025-06-05 03:34:12,954 [INFO] [HAWT] Sending payload: {'api_key': 'PCM9V83M5AZSKFTL', 'field1': 825.71, 'field2': 14.18, 'field3': 83.87, 'field4': 12.01, 'field5': 3.32}
+2025-06-05 03:34:13,271 [INFO] [HAWT] Uploaded successfully. Entry ID: 2
+2025-06-05 03:41:42,294 [INFO] [Solar_Facade] Sending payload: {'api_key': '6XSLPPOCKDVYF3XO', 'field1': 35.61, 'field2': 22.13, 'field3': 4.94, 'field4': 7.9, 'field5': 823.35, 'field6': 219594.0, 'field7': 246361.0}
+2025-06-05 03:41:42,789 [INFO] [Solar_Facade] Uploaded successfully. Entry ID: 4
+2025-06-05 03:41:42,794 [INFO] [Solar_Brick] Sending payload: {'api_key': 'DVIJVMQQGB1B89SG', 'field1': 859.31, 'field2': 38.5, 'field3': 11.32, 'field4': 1.65}
+2025-06-05 03:41:43,124 [INFO] [Solar_Brick] Uploaded successfully. Entry ID: 4
+2025-06-05 03:41:43,126 [INFO] [HAWT] Sending payload: {'api_key': 'PCM9V83M5AZSKFTL', 'field1': 952.88, 'field2': 13.95, 'field3': 227.54, 'field4': 13.92, 'field5': 0.7}
+2025-06-05 03:41:43,414 [INFO] [HAWT] Uploaded successfully. Entry ID: 4

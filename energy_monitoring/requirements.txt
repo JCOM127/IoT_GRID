@@ -1,0 +1,7 @@
+schedule
+psutil
+pandas
+pyarrow
+mysql-connector-python
+requests
+pymysql

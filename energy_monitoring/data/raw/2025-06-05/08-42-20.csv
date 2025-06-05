@@ -1,0 +1,17 @@
+timestamp,project_id,sensor_id,sensor_type,value,unit
+2025-06-05T08:42:20Z,Solar_Facade,Temp_1,temperature,33.29,C
+2025-06-05T08:42:20Z,Solar_Facade,Volt_1,voltage,20.31,V
+2025-06-05T08:42:20Z,Solar_Facade,Amp_1,current,3.47,A
+2025-06-05T08:42:20Z,Solar_Facade,Wind_1,wind_speed,7.08,m/s
+2025-06-05T08:42:20Z,Solar_Facade,Irr_1,irradiance,690.45,W/m²
+2025-06-05T08:42:20Z,Solar_Facade,PressHigh_1,pressure,333152.08,Pa
+2025-06-05T08:42:20Z,Solar_Facade,PressLow_1,pressure,308190.61,Pa
+2025-06-05T08:42:20Z,Solar_Brick,Irr_1,irradiance,356.26,W/m²
+2025-06-05T08:42:20Z,Solar_Brick,Temp_1,temperature,29.41,C
+2025-06-05T08:42:20Z,Solar_Brick,Volt_1,voltage,11.05,V
+2025-06-05T08:42:20Z,Solar_Brick,Amp_1,current,0.99,A
+2025-06-05T08:42:20Z,HAWT,Irr_1,irradiance,581.46,W/m²
+2025-06-05T08:42:20Z,HAWT,WindSpeed_1,wind_speed,18.66,m/s
+2025-06-05T08:42:20Z,HAWT,Wind_Direction_1,wind_direction,259.27,°
+2025-06-05T08:42:20Z,HAWT,Volt_1,voltage,22.82,V
+2025-06-05T08:42:20Z,HAWT,Amp_1,current,3.55,A
